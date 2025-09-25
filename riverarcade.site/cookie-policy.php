@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <meta name="description" content="Welcome to riverarcade.site , your go-to destination for fun and free online casino games like poker, blackjack, slots, and roulette. No real money, just entertainment! Play responsibly and enjoy a secure, fun-filled experience.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.riverarcade.site ">
+    <meta property="og:title" content="riverarcade.site - Play Free Casino Games">
+    <meta property="og:description" content="Explore a variety of fun, free casino games at riverarcade.site. Play poker, blackjack, slots, and more with no real money involved. Enjoy pure entertainment!">
+  
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>riverarcade.site  - Play Social Casino Games Online</title>
+  
+  </head>
+
+<body>
+    <div class="main">
+        <div class="header" id="header">
+            <div class="main-menu">
+              <div class="logo"><span class="heading-shade">riverarcade</span></div>
+                <div class="menu-items">
+                    <a href="/" class="menu-item">Home</a>
+                    <a href="index.php#about" class="menu-item">About</a>
+                    <a href="index.php#top-games" class="menu-item">Games</a>
+                    <a href="contact-us.php" class="menu-item">Contact</a>
+                  </div>
+
+            </div>
+
+            <div class="about-us">
+                <h1>Cookies Policy</h1>
+
+            </div>
+
+
+
+            <div class="user-numbers">
+                <div class="user-numbers-main">
+
+                    <div class="user-numbers-content">
+
+                        <h1>Crafted by <span class="heading-shade">Passionate Developers</span> <br> for an Exceptional Gaming Experience.</h1>
+                        <p>Our passionate developers crafted a seamless, stunning gaming experience. </p>
+                  
+                      </div>
+                      <div class="user-number-blocks">
+                        <div class="block-1">
+                          <h1>100+</h1>
+                          <p>Games Available</p>
+                        </div>
+                        <div class="block-1">
+                          <h1>2M+</h1>
+                          <p>Downloads</p>
+                        </div>
+                        <div class="block-1">
+                          <h1>400+</h1>
+                          <p>Daily Players</p>
+                        </div>
+                        <div class="block-1">
+                          <h1>4.6</h1>
+                          <p>User Ratings</p>
+                        </div>
+                    </div>
+
+                </div>
+                </div>
+
+
+
+                <div class="privacy-content">
+                    <h3>What are cookies?</h3>
+                    <p>A cookie is a small text file that a website stores on your computer or mobile device when you
+                        visit the site.</p>
+
+                    <p>First-party cookies are cookies set by the website you’re visiting. Only that website can read
+                        them. In addition, a website might potentially use external services, which also set their own
+                        cookies, known as third-party cookies. Persistent cookies are cookies saved on your computer and
+                        that are not deleted automatically when you quit your browser, unlike a session cookie, which is
+                        deleted when you quit your browser.</p>
+
+                    <p>Every time you visit the Commission’s websites, you will be prompted to accept or refuse cookies.
+                        The purpose is to enable the site to remember your preferences (such as user name, language,
+                        etc.) for a certain period of time.</p>
+
+                    <p>That way, you don’t have to re-enter them when browsing around the site during the same visit.
+                        Cookies can also be used to establish anonymised statistics about the browsing experience on our
+                        sites.</p>
+
+                    <h3>How do we use cookies?</h3>
+                    <p>European Commission websites mostly use “first-party cookies”. These are cookies set and
+                        controlled by the Commission, not by any external organisation. However, to view some of our
+                        pages, you will have to accept cookies from external organisations.</p>
+
+                    <h3>The 3 types of first-party cookie we use are to:</h3>
+                    <p>store visitor preferences</p>
+                    <p>make our websites operational</p>
+                    <p>gather analytics data (about user behaviour)</p>
+
+                    <h3>Visitor preferences</h3>
+                    <p>These are set by us and only we can read them. They remember:</p>
+                    <p>if you have agreed to (or refused) this site’s cookie policy</p>
+                    <p>if you have already replied to our survey pop-up (about how helpful the site content was) – so
+                        you won’t be asked again</p>
+
+                    <h3>Operational cookies</h3>
+                    <p>There are some cookies that we have to include in order for certain web pages to function. For
+                        this reason, they do not require your consent. In particular:</p>
+                    <p>authentication cookies</p>
+                    <p>technical cookies required by certain IT systems</p>
+
+                    <h3>Analytics cookies</h3>
+                    <p>We use these purely for internal research on how we can improve the service we provide for all
+                        our users. The cookies simply assess how you interact with our website – as an anonymous user
+                        (the data gathered does not identify you personally).</p>
+
+                    <p>Also, this data is not shared with any third parties or used for any other purpose. The
+                        anonymised statistics could be shared with contractors working on communication projects under
+                        contractual agreement with the Commission. However, you are free to refuse these types of
+                        cookies.</p>
+
+                    <h3>Third-party cookies</h3>
+                    <p>Some of our pages display content from external providers, e.g., YouTube, Facebook, and Twitter.
+                    </p>
+
+                    <p>To view this third-party content, you first have to accept their specific terms and conditions.
+                        This includes their cookie policies, which we have no control over.</p>
+
+                    <p>But if you do not view this content, no third-party cookies are installed on your device. These
+                        third-party services are outside of the control of the Commission. Providers may, at any time,
+                        change their terms of service, purpose and use of cookies, etc.</p>
+
+                    <h3>How can you manage cookies?</h3>
+
+                    <h3>Removing cookies from your device</h3>
+                    <p>You can delete all cookies that are already on your device by clearing the browsing history of
+                        your browser. This will remove all cookies from all websites you have visited.</p>
+
+                    <p>Be aware though that you may also lose some saved information (e.g., saved login details, site
+                        preferences).</p>
+
+                    <h3>Managing site-specific cookies</h3>
+                    <p>For more detailed control over site-specific cookies, check the privacy and cookie settings in
+                        your preferred browser.</p>
+
+                    <h3>Blocking cookies</h3>
+                    <p>You can set most modern browsers to prevent any cookies from being placed on your device, but you
+                        may then have to manually adjust some preferences every time you visit a site/page. And some
+                        services and functionalities may not work properly at all (e.g., profile logging-in).</p>
+
+                </div>
+
+            </div>
+        </div>
+
+
+        <div class="footer">
+            <div class="footer-content">
+              <p class="footer-content-text">Welcome to riverarcade.site , an online space where you can enjoy a wide range of fun and free casino games! Play free games like poker, blackjack, slots, and roulette, all assembled for your online entertainment. These games are solely for fun and have no monetary benefits, just pure fun and no risk. We believe in responsible gaming and encourage players to enjoy the games in a relaxed and enjoyable way. Your privacy is important to us, and we ensure your personal information is safe. If you need any help or have questions, our support team is always ready to assist. Enjoy playing and have fun!</p>
+            </div>
+            <div class="disclaimer-text"> <p> <strong>DISCLAIMER:
+            </strong>  Disclaimer Please Read Carefully. This website and its contents are only meant for a mature audience of above 18 years old. riverarcade.site is a free to play social casino gaming platform. riverarcade.site does not offer any opportunity to win real money from its games. No Real Money can be spend or won from any of the games. We would like to remind players that practice and success on our website does not mean future success in the game is for real money.</p></div>
+        
+            <div class="footer-logo-part">
+              <div class="logo-main">
+                <div class="logo-main-footer">
+                  <div class="logo"><span class="heading-shade">riverarcade</span></div>
+                  <div class="footers-links">
+                    <a href="privacy-policy.php" class="menu-item">Privacy</a>
+                    <a href="term-conditions.php" class="menu-item">T&C</a>
+                    <a href="cookie-policy.php" class="menu-item">Cookies</a>
+                    <a href="contact-us.php" class="menu-item">Contact</a>
+                  </div>
+                </div>
+        
+        
+              </div>
+        
+            </div>
+        
+            <div class="bottom-footer">
+              <p>2025 Social Casino Games, All Rights Reserved</p>
+              
+        
+              <div class="social-media">
+                <a href="https://www.facebook.com/SpinaSpellMagic/"><i class="fa-brands fa fa-facebook-f"></i></a>
+                <a href="https://x.com/coinmastergame"><i class="fa-brands fa fa-twitter"></i></a>
+                <a href="https://www.instagram.com/spinaspellofficial/"><i class="fa-brands fa fa-instagram"></i></a>
+                <img class="disclaimer" src="/assets/18.png" alt="">
+              </div>
+            </div>
+          </div>
+
+
+    </div>
+
+</body>
+
+</html>
