@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <meta name="description" content="Welcome to riverarcade.site, your go-to destination for fun and free online casino games like poker, blackjack, slots, and roulette. No real money, just entertainment! Play responsibly and enjoy a secure, fun-filled experience.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.riverarcade.site">
+  <meta property="og:title" content="riverarcade.site - Play Free Casino Games">
+  <meta property="og:description" content="Explore a variety of fun, free casino games at riverarcade.site. Play poker, blackjack, slots, and more with no real money involved. Enjoy pure entertainment!">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <title>riverarcade.site - Play Social Casino Games Online</title>
+
+</head>
+
+<body>
+    <div class="main">
+        <div class="header">
+            <div class="main-menu">
+                <div class="logo"><span class="heading-shade">riverarcade</span></div>
+                <div class="menu-items">
+                    <a href="/" class="menu-item">Home</a>
+                    <a href="index.php#about" class="menu-item">About</a>
+                    <a href="index.php#top-games" class="menu-item">Games</a>
+                    <a href="contact-us.php" class="menu-item">Contact</a>
+                  </div>
+
+            </div>
+
+            <div class="about-us">
+                <h1>Terms & Conditions</h1>
+
+            </div>
+            
+
+
+            <div class="user-numbers">
+                <div class="user-numbers-main">
+
+                  <div class="user-numbers-content">
+
+                    <h1>Crafted by <span class="heading-shade">Passionate Developers</span> <br> for an Exceptional Gaming Experience.</h1>
+                    <p>Our passionate developers crafted a seamless, stunning gaming experience. </p>
+              
+                  </div>
+                  <div class="user-number-blocks">
+                    <div class="block-1">
+                      <h1>100+</h1>
+                      <p>Games Available</p>
+                    </div>
+                    <div class="block-1">
+                      <h1>2M+</h1>
+                      <p>Downloads</p>
+                    </div>
+                    <div class="block-1">
+                      <h1>400+</h1>
+                      <p>Daily Players</p>
+                    </div>
+                    <div class="block-1">
+                      <h1>4.6</h1>
+                      <p>User Ratings</p>
+                    </div>
+                    </div>
+
+                </div>
+
+
+
+                <div class="privacy-content">
+                    <h3>Terms & Conditions</h3>
+<p>These Terms & Conditions govern the use of this website and all related services provided by our company. By accessing or using this site, you agree to be bound by these terms and conditions. If you do not agree with any part of these terms and conditions, please refrain from using our website.</p>
+
+<h3>1. Intellectual Property Rights</h3>
+<p>The content, design, and intellectual property on this website are owned by our company and protected by applicable copyright and trademark laws. You are prohibited from copying, distributing, or using any content from this site without our prior written permission.</p>
+
+<h3>2. Use of the Website</h3>
+<p>You are granted a limited, non-exclusive, and non-transferable license to use this website solely for your personal and non-commercial purposes. You agree to use the site in accordance with all relevant laws and regulations.</p>
+
+<h3>3. User Conduct</h3>
+<p>When using our website, you agree not to engage in any behavior that may be deemed unlawful, harmful, or offensive. This includes, but is not limited to, posting or transmitting any material that is defamatory, obscene, or fraudulent.</p>
+
+<h3>4. Third-Party Websites and Content</h3>
+<p>This website may contain links to third-party websites that are not owned or controlled by us. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party websites. You acknowledge and agree that we shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods, or services available on or through any third-party websites.</p>
+
+<h3>5. Limitation of Liability</h3>
+<p>To the maximum extent permitted by law, our company and its directors, employees, affiliates, and agents shall not be liable for any direct, indirect, incidental, special, or consequential damages resulting from the use or inability to use this website or any content, products, or services obtained from it.</p>
+
+<h3>6. Indemnification</h3>
+<p>You agree to indemnify and hold our company and its directors, employees, affiliates, and agents harmless from any claims, actions, damages, liabilities, and expenses (including legal fees) arising from your use of this website.</p>
+
+<h3>7. Changes to Terms & Conditions</h3>
+<p>We reserve the right to modify or replace these Terms & Conditions at any time, without prior notice. Any changes will be effective immediately upon posting on this website. By continuing to use the site after any modifications, you agree to be bound by the revised terms.</p>
+
+<p>Please review these Terms & Conditions regularly to ensure you are aware of any updates or changes.</p>
+
+<p>By using this website, you acknowledge that you have read, understood, and agree to be bound by these Terms & Conditions.</p>
+
+                </div>
+
+            </div>
+        </div>
+
+
+        <div class="footer">
+          <div class="footer-content">
+            <p class="footer-content-text">Welcome to riverarcade.site, an online space where you can enjoy a wide range of fun and free casino games! Play free games like poker, blackjack, slots, and roulette, all assembled for your online entertainment. These games are solely for fun and have no monetary benefits, just pure fun and no risk. We believe in responsible gaming and encourage players to enjoy the games in a relaxed and enjoyable way. Your privacy is important to us, and we ensure your personal information is safe. If you need any help or have questions, our support team is always ready to assist. Enjoy playing and have fun!</p>
+          </div>
+          <div class="disclaimer-text"> <p> <strong>DISCLAIMER:
+          </strong>  Disclaimer Please Read Carefully. This website and its contents are only meant for a mature audience of above 18 years old. riverarcade.site is a free to play social casino gaming platform. riverarcade.site does not offer any opportunity to win real money from its games. No Real Money can be spend or won from any of the games. We would like to remind players that practice and success on our website does not mean future success in the game is for real money.</p></div>
+      
+          <div class="footer-logo-part">
+            <div class="logo-main">
+              <div class="logo-main-footer">
+                <div class="logo"><span class="heading-shade">riverarcade</span></div>
+                <div class="footers-links">
+                  <a href="privacy-policy.php" class="menu-item">Privacy</a>
+                  <a href="term-conditions.php" class="menu-item">T&C</a>
+                  <a href="cookie-policy.php" class="menu-item">Cookies</a>
+                  <a href="contact-us.php" class="menu-item">Contact</a>
+                </div>
+              </div>
+      
+      
+            </div>
+      
+          </div>
+      
+          <div class="bottom-footer">
+            <p>2025 Social Casino Games, All Rights Reserved</p>
+            
+      
+            <div class="social-media">
+              <a href="https://www.facebook.com/SpinaSpellMagic/"><i class="fa-brands fa fa-facebook-f"></i></a>
+              <a href="https://x.com/coinmastergame"><i class="fa-brands fa fa-twitter"></i></a>
+              <a href="https://www.instagram.com/spinaspellofficial/"><i class="fa-brands fa fa-instagram"></i></a>
+              <img class="disclaimer" src="/assets/18.png" alt="">
+            </div>
+          </div>
+        </div>
+
+        
+    </div>
+
+</body>
+
+</html>
